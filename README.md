@@ -9,7 +9,6 @@
   <a href="https://huggingface.co/Helsinki-NLP/opus-mt-de-en"><img src="https://img.shields.io/badge/Model-Helsinki--NLP%2Fopus--mt--de--en-yellow.svg?style=flat-square&logo=huggingface&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Transformers-🤗-orange.svg?style=flat-square">
   <img src="https://img.shields.io/badge/Torch-PyTorch-red.svg?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square">
 </p>
 
 ---
